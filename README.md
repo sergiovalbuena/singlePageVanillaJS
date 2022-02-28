@@ -7,4 +7,4 @@ npm install
 
 //COMMANDS:
 nom run build  //crea carpeta dist (index.html & main.js) 
-npm run start 
+npm run start # RickAndMorty
